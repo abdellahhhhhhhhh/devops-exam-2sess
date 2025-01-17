@@ -40,4 +40,5 @@ This has been built with the version 18.18 of Node JS
 ### Exam information - to be completed
 - Student (Lastname and Firstname) :
 - GitHub repository URL :
-- Azure Static Web app URL : 
+- Azure Static Web app URLl : 
+Initial Deployment Test
